@@ -1,7 +1,7 @@
 -- discord.gg/tboyroblox
 
 
-shared.LoaderTitle = "Đăng Ký Kênh THỊNHMSI";
+shared.LoaderTitle = "Đăng Ký Kênh @leaderff444reg";
 shared.LoaderKeyFrames = {
     [1] = {
         1,
@@ -96,7 +96,7 @@ local v7 = CreateObject("ImageLabel", {
     Name = "UserImage",
     Parent = v6,
     BackgroundTransparency = 1,
-    Image = "rbxassetid://112992011287253",
+    Image = "rbxassetid://104737290628885",
     Position = UDim2.new(0, 15, 0, 10),
     Size = UDim2.new(0, 50, 0, 50)
 });
@@ -167,11 +167,11 @@ local v13 = CreateObject("TextLabel", {
     Parent = v6,
     BackgroundTransparency = 1,
     Position = UDim2.new(0.5, 0, 1, - 25),
-    Size = UDim2.new(1, - 20, 0, 20),
+    Size = UDim2.new(1, - 15, 0, 15),
     Font = Enum.Font.Gotham,
     Text = "",
     TextColor3 = v2.LoaderData.Colors.Topic,
-    TextSize = 14,
+    TextSize = 13,
     TextXAlignment = Enum.TextXAlignment.Center,
     AnchorPoint = Vector2.new(0.5, 0.5)
 });
@@ -356,10 +356,10 @@ local v16 = {
         Title = "Trái"
     }),
     Raid = v15:AddTab({
-        Title = "Tập Kích"
+        Title = "raid "
     }),
     Race = v15:AddTab({
-        Title = "Tộc"
+        Title = "v4"
     }),
     Shop = v15:AddTab({
         Title = "Cửa Hàng"
